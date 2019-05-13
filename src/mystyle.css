@@ -4,3 +4,12 @@
 .contacts li a.instagram:hover {
     color: #9d182f;
 }
+object.avatar {
+    background: url(image/avatar1.svg);
+    background-size: 20rem;
+    height: 250px;
+}
+object.avatar:hover {
+    background: url(image/avatar2.svg);
+    background-size: 20rem;
+}
