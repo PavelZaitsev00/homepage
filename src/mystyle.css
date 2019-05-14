@@ -4,6 +4,9 @@
 .contacts li a.instagram:hover {
     color: #9d182f;
 }
+.contacts li a.wiki:hover {
+    color: #686868;
+}
 object.avatar {
     background: url(image/static_ava.jpg);
     background-size: 18rem;
