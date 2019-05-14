@@ -6,10 +6,15 @@
 }
 object.avatar {
     background: url(image/avatar1.svg);
-    background-size: 20rem;
-    height: 250px;
+    background-size: 15rem;
+    height: 200px;
 }
 object.avatar:hover {
     background: url(image/avatar2.svg);
-    background-size: 20rem;
+    background-size: 15rem;
+}
+main {
+    background: url(image/bg.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
 }
