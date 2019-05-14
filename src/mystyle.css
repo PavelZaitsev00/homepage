@@ -18,3 +18,9 @@ main {
     background-attachment: fixed;
     background-size: 100%;
 }
+p.tags.small:hover {
+    color: #571f19;
+    background: url(image/fire.gif);
+    background-size: 100%;
+    height: 100px;
+}
